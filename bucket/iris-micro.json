@@ -1,12 +1,12 @@
 {
-    "version": "0.0.0",
+    "version": "0.0.5",
     "description": "The iris-micro application.",
     "homepage": "https://iristech.co/",
     "license": "https://iristech.co/licensing/",
     "architecture": {
         "32bit": {
-            "url": "https://www.mirc.com/get.php#/installer.exe",
-            "hash": "e21839dedc197d568f5cd786bceb4942adf553e9b06e071e21c6ab455c3f53e9"
+            "url": "https://iristech.co/download/2373#/installer.exe",
+            "hash": "f711f6fc74e72152c3b18751e5a1583c4b4a746d08333f4c52ce861747e41abd"
         }
     },
     "checkver": {
