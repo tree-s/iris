@@ -12,7 +12,8 @@
     "bin": [
         "iris-micro.exe",
         [ "iris-micro.exe", "iris-day", "5000 100" ],
-        [ "iris-micro.exe", "iris-night", "3900 80" ]
+        [ "iris-micro.exe", "iris-night", "3900 80" ],
+        [ "iris-micro.exe", "iris-reset", "6500 100"]
     ]
     "checkver": {
         "url": "https://iristech.co/iris-micro/",
