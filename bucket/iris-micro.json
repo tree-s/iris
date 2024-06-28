@@ -9,7 +9,11 @@
             "hash": "f711f6fc74e72152c3b18751e5a1583c4b4a746d08333f4c52ce861747e41abd"
         }
     },
-    "bin": "iris-micro.exe",
+    "bin": [
+        "iris-micro.exe",
+        [ "iris-micro.exe", "iris-day", "5000 100" ],
+        [ "iris-micro.exe", "iris-night", "3900 80" ]
+    ]
     "checkver": {
         "url": "https://iristech.co/iris-micro/",
         "regex": "iris-micro-windows-(\\d+\\.\\d+\\.\\d+).zip"
