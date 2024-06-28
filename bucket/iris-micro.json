@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://iristech.co/download/2373#/installer.exe"
+                "url": "https://iristech.co/download/2373#/dl.7z"
             }
         },
         "hash": {
